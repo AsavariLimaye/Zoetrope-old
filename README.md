@@ -1,2 +1,7 @@
-# Zoetrope
-A movie and tv show database based website
+# Zeotrope
+A website which acts like a database of movies & TV shows
+
+
+Front End : HTML, CSS, Bootstrap
+
+Back End : PHP, MySQL
